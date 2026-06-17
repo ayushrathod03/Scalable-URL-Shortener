@@ -1,4 +1,4 @@
-# ⚡ Scalable URL Shortener & Telemetry Pipeline
+# Scalable URL Shortener & Telemetry Pipeline
 
 A high-performance, containerized URL Shortener and click telemetry pipeline built using modern system design patterns. Designed for sub-millisecond redirection speeds, rate-limiting security, and real-time analytical insights.
 
